@@ -1,0 +1,18 @@
+  
+body{
+    background: white;
+}
+
+.titulo{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.picture{
+ border: solid 2px black;
+}
+
+.distance{
+    font-weight: bold;
+}
